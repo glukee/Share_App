@@ -6,7 +6,7 @@ export default class ApiTest extends Component {
     fetch("http://localhost:8080/update-details", {
       method: "POST",
 
-      body: JSON.stringify({ name: "reyansh", phone: "1234567890" }),
+      body: JSON.stringify({ name: "nurak", phone: "1234567890" }),
       headers: {
         Accept: "application/json",
         "Content-Type": "application/json",
