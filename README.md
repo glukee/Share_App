@@ -1,4 +1,4 @@
-# ReactJS App with Spring Boot
+# App with Spring Boot
 Project frontend build with react js and backend with spring boot.
 Implementation of Login and SignUp forms with various APIs and JWT Token for authentication.
 
