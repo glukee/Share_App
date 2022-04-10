@@ -13,7 +13,7 @@ Implementation of Login and SignUp forms with various APIs and JWT Token for aut
 - MySQL Database
 - Table Name: Users,dailyrecords
 
-<p align="center"><img src="screenshots/ss-01.png" width="45%" /><img src="screenshots/ss-02.png" width="45%" /></p><p align="center"><img src="screenshots/ss-03.png" width="45%" /><img src="screenshots/ss-04.png" width="45%" /></p><p align="center"><img src="screenshots/ss-05.png" width="45%" /></p>
+
 
 
 **Thank You for your Attemtion**
