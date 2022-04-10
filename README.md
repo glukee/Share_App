@@ -19,6 +19,6 @@ Implementation of Login and SignUp forms with various APIs and JWT Token for aut
 ![ss-04](https://user-images.githubusercontent.com/74504370/162622965-1def9645-85b8-46e4-8eaa-1883e777f30b.png)
 ![ss-05](https://user-images.githubusercontent.com/74504370/162622966-b2295205-106e-4898-8957-f5ef711acae3.png)
 
-**Thank You for your Attemtion**
+**Thank You for your Attention**
 
 Made by Karabekov Nurak.
