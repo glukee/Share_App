@@ -5,10 +5,7 @@ export default class ApiTest extends Component {
   handleClick() {
     fetch("http://localhost:8080/update-details", {
       method: "POST",
-      // params: {
-      //   name: "Reyansh kumar",
-      //   phone: "1234567890",
-      // },
+
       body: JSON.stringify({ name: "reyansh", phone: "1234567890" }),
       headers: {
         Accept: "application/json",
